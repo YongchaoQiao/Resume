@@ -2,9 +2,11 @@
 Personal Resume
  乔永超
 邮箱：yongchaoqiao9@163.com Github: https://github.com/YongchaoQiao
+
 教育背景：
 乔治华盛顿大学，统计学硕士（绩点：3.84/4.00） 华盛顿特区，美国；2018.08-2020.05
 中国地质大学（武汉），统计学学士 湖北武汉，中国；2014.09-2018.06
+
 出版物及项目经历：
 Co-Author, “An experimental investigation on the influence of coal brittleness on dust generation,” Powder
 Technology, 364: 457-466. 2020.
