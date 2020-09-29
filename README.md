@@ -1,6 +1,6 @@
 # Resume
 Personal Resume
- 乔永超
+乔永超
 	
 邮箱：yongchaoqiao9@163.com Github: https://github.com/YongchaoQiao
 
